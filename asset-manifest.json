@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YasuoXo/static/css/main.b792a898.chunk.css",
+    "main.js": "/YasuoXo/static/js/main.b4fd6ded.chunk.js",
+    "main.js.map": "/YasuoXo/static/js/main.b4fd6ded.chunk.js.map",
+    "runtime-main.js": "/YasuoXo/static/js/runtime-main.80aa5871.js",
+    "runtime-main.js.map": "/YasuoXo/static/js/runtime-main.80aa5871.js.map",
+    "static/js/2.76e9d1fa.chunk.js": "/YasuoXo/static/js/2.76e9d1fa.chunk.js",
+    "static/js/2.76e9d1fa.chunk.js.map": "/YasuoXo/static/js/2.76e9d1fa.chunk.js.map",
+    "index.html": "/YasuoXo/index.html",
+    "precache-manifest.d5142361b8ee68c847a6bd9afeab01a4.js": "/YasuoXo/precache-manifest.d5142361b8ee68c847a6bd9afeab01a4.js",
+    "service-worker.js": "/YasuoXo/service-worker.js",
+    "static/css/main.b792a898.chunk.css.map": "/YasuoXo/static/css/main.b792a898.chunk.css.map",
+    "static/js/2.76e9d1fa.chunk.js.LICENSE.txt": "/YasuoXo/static/js/2.76e9d1fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80aa5871.js",
+    "static/js/2.76e9d1fa.chunk.js",
+    "static/css/main.b792a898.chunk.css",
+    "static/js/main.b4fd6ded.chunk.js"
+  ]
+}
